@@ -1,7 +1,6 @@
 import React from "react";
 import classes from './Table.module.css';
 
-
 const TableHeader=(props)=>{
     return (
         <div className={classes.header}>
